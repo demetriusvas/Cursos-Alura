@@ -4,6 +4,7 @@
 body {
     font-family: var(--familia-corpo);
     font-size: var(--tamanho-corpo);
+    background-color: var(--branco-outro-tom);
 }
 
 .container {
@@ -34,4 +35,13 @@ body {
 
 .texto {
     line-height: 26px;
+}
+
+.cursos {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1250px;
+    margin: 0 auto;
+    border: 1px solid red;
+    justify-content: center;
 }

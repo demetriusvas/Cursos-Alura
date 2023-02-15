@@ -1,2 +1,5 @@
 .cabecalho {
+    background-color: var(--azul-escuro);
+    color: var(--branco);
+    padding: 1em 0;
 }

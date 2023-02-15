@@ -1,8 +1,11 @@
 :root {
     --branco: #FFFFFF;
+    --branco-outro-tom: #f9fbfd;
     --cinza: #909090;
     --preto: #202020;
     --preto-transparente: #0000000F;
+    --azul-escuro: #051932;
+    --rosa: #ce527c;
 
     --familia-corpo: 'Poppins', sans-serif;
 
