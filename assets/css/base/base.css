@@ -38,10 +38,10 @@ body {
 }
 
 .cursos {
-    display: flex;
-    flex-wrap: wrap;
     max-width: 1250px;
     margin: 0 auto;
     border: 1px solid red;
+    display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
