@@ -38,6 +38,14 @@
     justify-content: center;
 }
 
+.banner_cinza-esverdeado{
+    display: flex;
+    background-color: var(--cinza-esverdeado);
+    padding: 10px 0;
+    align-items: center;
+    justify-content: center;
+}
+
 .banner-logo-curso{
     width: 80px;
     height: 100px;
