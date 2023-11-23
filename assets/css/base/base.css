@@ -25,6 +25,15 @@ body {
     margin-bottom: .75rem;
 }
 
+.titulo-conclusao{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
 .alinhamento--esquerda {
     text-align: left;
 }
