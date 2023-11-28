@@ -36,3 +36,12 @@
 .secao-vertical .secao__cartoes .cartao__titulo{
     flex-grow: 1;
 }
+
+.secao-player{
+    padding: 16px;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 204px 1fr 164px;
+    grid-template-rows: auto;
+    column-gap: 1.25rem;
+}
